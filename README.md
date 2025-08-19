@@ -13,7 +13,7 @@ A chat application built with LangGraph, FastAPI, and Google's Gemini model.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bluemohawk/morning-live.ai.git
+git clone https://github.com/bluemohawk/langgraph-basic-chat.git
 cd YOUR_REPO_NAME
 ```
 
